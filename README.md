@@ -26,4 +26,4 @@ Mobile & full-stack developer. I mostly build cross-platform apps with Flutter, 
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/ahmadyogadev/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadyogadev/)
