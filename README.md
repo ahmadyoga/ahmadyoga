@@ -26,4 +26,4 @@ Mobile & full-stack developer. I mostly build cross-platform apps with Flutter, 
 
 ### 📫 Contact
 
-Email: ahmadyoga684@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ahmadyogadev/)
