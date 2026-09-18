@@ -1,22 +1,22 @@
 ### Hi, I'm Ahmad Yoga 👋
 
-Mobile & full-stack developer. Sehari-hari membangun aplikasi Flutter lintas platform, kadang merambah ke web (Next.js) dan backend (Laravel), dan sesekali bikin tools iseng buat menyelesaikan masalah receh sendiri.
+Mobile & full-stack developer. I mostly build cross-platform apps with Flutter, occasionally branch out into web (Next.js) and backend (Laravel), and every now and then build small tools just to scratch my own itch.
 
-- 📱 Fokus utama: **Flutter** (Android, iOS, Windows, Linux) — aktif berkontribusi di beberapa aplikasi tim & orang tua untuk platform bimbingan belajar.
-- 🌐 Juga terbiasa dengan **Next.js/TypeScript** untuk web dan **Laravel/PHP** untuk backend/API.
-- 🔧 Suka membuat tools kecil yang menyelesaikan masalah nyata — dari remote control lintas platform sampai kontrol TikTok dari terminal.
-- ⚡ Aktif ngoding tiap hari — 1.900+ kontribusi GitHub dalam setahun terakhir.
+- 📱 Main focus: **Flutter** (Android, iOS, Windows, Linux) — actively contributing to team & parent-facing apps for an ed-tech tutoring platform.
+- 🌐 Also comfortable with **Next.js/TypeScript** for the web and **Laravel/PHP** for backend/APIs.
+- 🔧 I like building small tools that solve real (if slightly niche) problems — from a cross-platform remote mouse to controlling TikTok from a terminal.
+- ⚡ Coding pretty much every day — 1,900+ GitHub contributions in the last year.
 
-### 📌 Beberapa proyek
+### 📌 Featured projects
 
-| Proyek | Deskripsi |
+| Project | Description |
 | --- | --- |
-| [remote_mouse](https://github.com/ahmadyoga/remote_mouse) | Remote mouse lintas platform (Flutter) — HP jadi touchpad multi-gesture, desktop (Windows/Linux) jalan sebagai background service |
+| [remote_mouse](https://github.com/ahmadyoga/remote_mouse) | Cross-platform remote mouse (Flutter) — phone becomes a multi-gesture touchpad, desktop (Windows/Linux) runs as a background service |
 | [dropatrack](https://github.com/ahmadyoga/dropatrack) | Real-time collaborative music player — [live demo](https://dropatrack.vercel.app/) |
-| [stickerbox](https://github.com/ahmadyoga/stickerbox) | Aplikasi Flutter untuk membuat sticker pack WhatsApp, termasuk import dari link Pinterest/Instagram/TikTok |
-| [ttytok](https://github.com/ahmadyoga/ttytok) | Kontrol scroll TikTok/Reels dari terminal lewat ADB — buat HP yang lagi di holder |
-| [shotgunkeyboard](https://github.com/ahmadyoga/shotgunkeyboard) | Tools iseng: bunyi tembakan shotgun tiap keystroke, system-wide |
-| [portfolio](https://github.com/ahmadyoga/portfolio) | Situs portfolio pribadi |
+| [stickerbox](https://github.com/ahmadyoga/stickerbox) | Flutter app for building WhatsApp sticker packs, including importing from Pinterest/Instagram/TikTok links |
+| [ttytok](https://github.com/ahmadyoga/ttytok) | Control TikTok/Reels scrolling from the terminal via ADB — for when your phone is on a holder |
+| [shotgunkeyboard](https://github.com/ahmadyoga/shotgunkeyboard) | A fun little tool: plays a shotgun blast sound on every keystroke, system-wide |
+| [portfolio](https://github.com/ahmadyoga/portfolio) | My personal portfolio site |
 
 ### 🛠 Tech Stack
 
@@ -28,11 +28,6 @@ Mobile & full-stack developer. Sehari-hari membangun aplikasi Flutter lintas pla
 ![PHP](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-### 📊 GitHub Stats
-
-![Ahmad Yoga's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadyoga&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadyoga&layout=compact&hide_border=true)
-
-### 📫 Kontak
+### 📫 Contact
 
 Email: ahmadyoga684@gmail.com
