@@ -5,18 +5,14 @@ Mobile & full-stack developer. I mostly build cross-platform apps with Flutter, 
 - 📱 Main focus: **Flutter** (Android, iOS, Windows, Linux) — actively contributing to team & parent-facing apps for an ed-tech tutoring platform.
 - 🌐 Also comfortable with **Next.js/TypeScript** for the web and **Laravel/PHP** for backend/APIs.
 - 🔧 I like building small tools that solve real (if slightly niche) problems — from a cross-platform remote mouse to controlling TikTok from a terminal.
-- ⚡ Coding pretty much every day — 1,900+ GitHub contributions in the last year.
 
 ### 📌 Featured projects
 
 | Project | Description |
 | --- | --- |
-| [remote_mouse](https://github.com/ahmadyoga/remote_mouse) | Cross-platform remote mouse (Flutter) — phone becomes a multi-gesture touchpad, desktop (Windows/Linux) runs as a background service |
 | [dropatrack](https://github.com/ahmadyoga/dropatrack) | Real-time collaborative music player — [live demo](https://dropatrack.vercel.app/) |
 | [stickerbox](https://github.com/ahmadyoga/stickerbox) | Flutter app for building WhatsApp sticker packs, including importing from Pinterest/Instagram/TikTok links |
 | [ttytok](https://github.com/ahmadyoga/ttytok) | Control TikTok/Reels scrolling from the terminal via ADB — for when your phone is on a holder |
-| [shotgunkeyboard](https://github.com/ahmadyoga/shotgunkeyboard) | A fun little tool: plays a shotgun blast sound on every keystroke, system-wide |
-| [portfolio](https://github.com/ahmadyoga/portfolio) | My personal portfolio site |
 
 ### 🛠 Tech Stack
 
