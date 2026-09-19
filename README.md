@@ -23,10 +23,10 @@ Mobile & full-stack developer. I mostly build cross-platform apps with Flutter, 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
 ### 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadyoga&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ahmadyoga&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
 
 ### 📫 Contact
 
